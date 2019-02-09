@@ -1,0 +1,29 @@
+{
+  "name": "Book-Shelf",
+  "version": "1.0.0",
+  "description": "Book Summary",
+  "main": "index.js",
+  "scripts": {
+    "test": "nothing",
+    "start": "nodemon bootstrap.js"
+  },
+  "keywords": [],
+  "author": "Deepa Sinha",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "boom": "^7.3.0",
+    "dotenv": "^6.2.0",
+    "fs": "0.0.1-security",
+    "hapi": "^17.8.1",
+    "hapi-swagger": "^9.3.0",
+    "inert": "^5.1.2",
+    "knex": "^0.13.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.9",
+    "npm": "^6.7.0",
+    "vision": "^5.4.4"
+  }
+}
